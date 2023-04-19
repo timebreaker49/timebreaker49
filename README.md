@@ -3,7 +3,6 @@
 - 👀 I’m interested in payments system technology and i18n, and outside of programming, music (playing+/listening), reading, anime+/manga, and video games.
 - 🌱 I’m currently learning react native for Android
 - 💞️ I’m looking to collaborate on anything related to payments, i18n, or native mobile development
-- 📫 Email me at: wcsbaylor@gmail.com
 
 <!---
 timebreaker49/timebreaker49 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
